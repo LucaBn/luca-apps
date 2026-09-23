@@ -6,5 +6,5 @@ Public pages, privacy policies and support pages for my websites, apps, games an
 
 Apps:
 
-- [Cane Gatto Stivali](./app/canegattostivali/)
-- [Math Pong](./app/math-pong/)
+- [Cane Gatto Stivali](./app/canegattostivali/) - [Play Store](https://play.google.com/store/apps/details?id=it.canegattostivali.app)
+- [Math Pong](./app/math-pong/) - [Play Store](https://play.google.com/store/apps/details?id=it.mathpong.app)
