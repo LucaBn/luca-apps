@@ -1,7 +1,10 @@
 # Luca Apps
 
-TODO: add one paragraph about hp
-Public pages, privacy policies and support pages for my websites, apps, games and more
+Deployed on https://luca-apps.pages.dev.
+
+Home page is a static board to show my websites, apps, games and more.
+
+Other pages are used to share policies or info about my projects.
 
 ## Projects
 
