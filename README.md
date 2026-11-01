@@ -1,5 +1,6 @@
 # Luca Apps
 
+TODO: add one paragraph about hp
 Public pages, privacy policies and support pages for my websites, apps, games and more
 
 ## Projects
